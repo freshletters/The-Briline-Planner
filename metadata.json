@@ -1,0 +1,7 @@
+{
+  "name": "Zenith Minimalist Planner",
+  "description": "A high-fidelity minimalist digital planner inspired by classic paper notebooks like Hobonichi. Features monthly and daily spreads with a grid-based aesthetic and Gemini-powered smart scheduling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
